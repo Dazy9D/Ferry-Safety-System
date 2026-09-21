@@ -69,8 +69,8 @@ Overloading and uneven load distribution are a major cause of river accidents in
 
 ## Team
 
-| Name |
-|---|---|
+| Members |
+|---|
 | Anita Haque Sushma |
 | Tauhidul Islam Pranto | 
 | Shafi Ahmed Adib | 
